@@ -1,0 +1,106 @@
+body {
+  font-size: 40px;
+  color: #f4e1e1;
+font-style: italic;
+  background: #ffffff;
+  font-family: Roboto, sans-serif;
+  background-image: url(https://s2.glbimg.com/-zcCqJkVirMvT_KGB_1M5MMqt74=/0x0:1300x867/1008x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2019/U/N/AaifUGSOmBC4rtZBLikA/20190911-atletico-paranaense-x-internacional-22.jpg)
+;
+background-repeat: no-repeat;
+background-size: cover;
+;
+ }
+
+ .main{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 100px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+ }
+
+ #img 
+  border-radius: 5%;
+  width: 200px;
+}
+
+ #text{
+  align-self: center;
+  padding: 50px;
+ }
+
+ h4{
+  color: rgb(255, 255, 255);
+  opacity: 0.8;
+ }
+
+ .social{
+  font-size: 35px;
+  color: rgb(255, 251, 251);
+  padding: 10px;
+  margin-left: 40px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+ }
+
+#insta:hover{
+  color:  #f1f1f1;
+  transition: 0.9s;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(255, 255, 255, 0.25);
+ }
+
+ #linkedin:hover{
+  background: #0072b1;
+  color: #fff;
+  transition: 0.5s;
+ }
+
+ #facebook:hover{
+  background: #4267B2;
+  color: #fff;
+  transition: 0.5s;
+ }
+
+ #steam:hover{
+  color:  #f1f1f1;
+  transition: 0.9s;
+  background-color: #000000;
+ }
+
+ #github:hover{
+  color: #fff6f6;
+  transition: 0.5s;
+  background-color: #fff;
+ }
+
+ .description{
+  font-size: 20px;
+  color: #000000;
+  box-shadow: 2px 2px 4px rgb(239, 0, 0);
+  max-width: 500px;
+  padding: 5px;
+  background-color: #f1c9c9;
+  margin-top: 20px;
+  justify-content: center;
+ }
+
+ footer{
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 50px;
+}
+
+#lhyara{
+  font-weight: bold;
+}
+
+#lhyara:hover{
+  color: rgb(201, 199, 199);
+  opacity: 0.8;
+  transition: 0.5s;
+}
